@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="top"
+    android:background="@drawable/back"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/ttls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:text="Twinkle, Twinkle, Little Star"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/jack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Jack And Jill"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/hump"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Humpty Dumpty"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/hick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Hickory Dickory Dock "
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/baa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Baa Baa Black Sheep"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/litt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Little Boy Blue"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/pat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Pat-A-Cake"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+
+    <Button
+        android:id="@+id/abt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="©About us"
+        android:background="@android:color/transparent"
+        android:textColor="#1B5E91"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+
+
+
+</LinearLayout>
